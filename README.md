@@ -9,6 +9,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0001-two-sum](https://github.com/roshanthorat2208-hash/Leetcode/tree/master/0001-two-sum) |
 | [0011-container-with-most-water](https://github.com/roshanthorat2208-hash/Leetcode/tree/master/0011-container-with-most-water) |
 | [0015-3sum](https://github.com/roshanthorat2208-hash/Leetcode/tree/master/0015-3sum) |
+| [0051-n-queens](https://github.com/roshanthorat2208-hash/Leetcode/tree/master/0051-n-queens) |
 ## Hash Table
 |  |
 | ------- |
@@ -45,4 +46,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0024-swap-nodes-in-pairs](https://github.com/roshanthorat2208-hash/Leetcode/tree/master/0024-swap-nodes-in-pairs) |
+## Backtracking
+|  |
+| ------- |
+| [0051-n-queens](https://github.com/roshanthorat2208-hash/Leetcode/tree/master/0051-n-queens) |
 <!---LeetCode Topics End-->
