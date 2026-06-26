@@ -10,6 +10,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0011-container-with-most-water](https://github.com/roshanthorat2208-hash/Leetcode/tree/master/0011-container-with-most-water) |
 | [0015-3sum](https://github.com/roshanthorat2208-hash/Leetcode/tree/master/0015-3sum) |
 | [0051-n-queens](https://github.com/roshanthorat2208-hash/Leetcode/tree/master/0051-n-queens) |
+| [0209-minimum-size-subarray-sum](https://github.com/roshanthorat2208-hash/Leetcode/tree/master/0209-minimum-size-subarray-sum) |
 ## Hash Table
 |  |
 | ------- |
@@ -24,6 +25,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0003-longest-substring-without-repeating-characters](https://github.com/roshanthorat2208-hash/Leetcode/tree/master/0003-longest-substring-without-repeating-characters) |
+| [0209-minimum-size-subarray-sum](https://github.com/roshanthorat2208-hash/Leetcode/tree/master/0209-minimum-size-subarray-sum) |
 ## Two Pointers
 |  |
 | ------- |
@@ -73,4 +75,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0094-binary-tree-inorder-traversal](https://github.com/roshanthorat2208-hash/Leetcode/tree/master/0094-binary-tree-inorder-traversal) |
 | [0145-binary-tree-postorder-traversal](https://github.com/roshanthorat2208-hash/Leetcode/tree/master/0145-binary-tree-postorder-traversal) |
+## Binary Search
+|  |
+| ------- |
+| [0209-minimum-size-subarray-sum](https://github.com/roshanthorat2208-hash/Leetcode/tree/master/0209-minimum-size-subarray-sum) |
+## Prefix Sum
+|  |
+| ------- |
+| [0209-minimum-size-subarray-sum](https://github.com/roshanthorat2208-hash/Leetcode/tree/master/0209-minimum-size-subarray-sum) |
 <!---LeetCode Topics End-->
