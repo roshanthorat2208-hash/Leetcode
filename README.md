@@ -36,6 +36,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0015-3sum](https://github.com/roshanthorat2208-hash/Leetcode/tree/master/0015-3sum) |
 | [0019-remove-nth-node-from-end-of-list](https://github.com/roshanthorat2208-hash/Leetcode/tree/master/0019-remove-nth-node-from-end-of-list) |
 | [0141-linked-list-cycle](https://github.com/roshanthorat2208-hash/Leetcode/tree/master/0141-linked-list-cycle) |
+| [0234-palindrome-linked-list](https://github.com/roshanthorat2208-hash/Leetcode/tree/master/0234-palindrome-linked-list) |
 ## Greedy
 |  |
 | ------- |
@@ -50,10 +51,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0019-remove-nth-node-from-end-of-list](https://github.com/roshanthorat2208-hash/Leetcode/tree/master/0019-remove-nth-node-from-end-of-list) |
 | [0024-swap-nodes-in-pairs](https://github.com/roshanthorat2208-hash/Leetcode/tree/master/0024-swap-nodes-in-pairs) |
 | [0141-linked-list-cycle](https://github.com/roshanthorat2208-hash/Leetcode/tree/master/0141-linked-list-cycle) |
+| [0234-palindrome-linked-list](https://github.com/roshanthorat2208-hash/Leetcode/tree/master/0234-palindrome-linked-list) |
 ## Recursion
 |  |
 | ------- |
 | [0024-swap-nodes-in-pairs](https://github.com/roshanthorat2208-hash/Leetcode/tree/master/0024-swap-nodes-in-pairs) |
+| [0234-palindrome-linked-list](https://github.com/roshanthorat2208-hash/Leetcode/tree/master/0234-palindrome-linked-list) |
 ## Backtracking
 |  |
 | ------- |
@@ -63,6 +66,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0094-binary-tree-inorder-traversal](https://github.com/roshanthorat2208-hash/Leetcode/tree/master/0094-binary-tree-inorder-traversal) |
 | [0145-binary-tree-postorder-traversal](https://github.com/roshanthorat2208-hash/Leetcode/tree/master/0145-binary-tree-postorder-traversal) |
+| [0234-palindrome-linked-list](https://github.com/roshanthorat2208-hash/Leetcode/tree/master/0234-palindrome-linked-list) |
 ## Tree
 |  |
 | ------- |
