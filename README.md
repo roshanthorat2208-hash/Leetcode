@@ -11,12 +11,14 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0015-3sum](https://github.com/roshanthorat2208-hash/Leetcode/tree/master/0015-3sum) |
 | [0051-n-queens](https://github.com/roshanthorat2208-hash/Leetcode/tree/master/0051-n-queens) |
 | [0209-minimum-size-subarray-sum](https://github.com/roshanthorat2208-hash/Leetcode/tree/master/0209-minimum-size-subarray-sum) |
+| [0219-contains-duplicate-ii](https://github.com/roshanthorat2208-hash/Leetcode/tree/master/0219-contains-duplicate-ii) |
 ## Hash Table
 |  |
 | ------- |
 | [0001-two-sum](https://github.com/roshanthorat2208-hash/Leetcode/tree/master/0001-two-sum) |
 | [0003-longest-substring-without-repeating-characters](https://github.com/roshanthorat2208-hash/Leetcode/tree/master/0003-longest-substring-without-repeating-characters) |
 | [0141-linked-list-cycle](https://github.com/roshanthorat2208-hash/Leetcode/tree/master/0141-linked-list-cycle) |
+| [0219-contains-duplicate-ii](https://github.com/roshanthorat2208-hash/Leetcode/tree/master/0219-contains-duplicate-ii) |
 ## String
 |  |
 | ------- |
@@ -26,6 +28,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0003-longest-substring-without-repeating-characters](https://github.com/roshanthorat2208-hash/Leetcode/tree/master/0003-longest-substring-without-repeating-characters) |
 | [0209-minimum-size-subarray-sum](https://github.com/roshanthorat2208-hash/Leetcode/tree/master/0209-minimum-size-subarray-sum) |
+| [0219-contains-duplicate-ii](https://github.com/roshanthorat2208-hash/Leetcode/tree/master/0219-contains-duplicate-ii) |
 ## Two Pointers
 |  |
 | ------- |
