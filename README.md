@@ -30,6 +30,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1838-frequency-of-the-most-frequent-element](https://github.com/roshanthorat2208-hash/Leetcode/tree/master/1838-frequency-of-the-most-frequent-element) |
 | [2461-maximum-sum-of-distinct-subarrays-with-length-k](https://github.com/roshanthorat2208-hash/Leetcode/tree/master/2461-maximum-sum-of-distinct-subarrays-with-length-k) |
 | [2824-count-pairs-whose-sum-is-less-than-target](https://github.com/roshanthorat2208-hash/Leetcode/tree/master/2824-count-pairs-whose-sum-is-less-than-target) |
+| [3169-count-days-without-meetings](https://github.com/roshanthorat2208-hash/Leetcode/tree/master/3169-count-days-without-meetings) |
 ## Hash Table
 |  |
 | ------- |
@@ -116,6 +117,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0977-squares-of-a-sorted-array](https://github.com/roshanthorat2208-hash/Leetcode/tree/master/0977-squares-of-a-sorted-array) |
 | [1838-frequency-of-the-most-frequent-element](https://github.com/roshanthorat2208-hash/Leetcode/tree/master/1838-frequency-of-the-most-frequent-element) |
 | [2824-count-pairs-whose-sum-is-less-than-target](https://github.com/roshanthorat2208-hash/Leetcode/tree/master/2824-count-pairs-whose-sum-is-less-than-target) |
+| [3169-count-days-without-meetings](https://github.com/roshanthorat2208-hash/Leetcode/tree/master/3169-count-days-without-meetings) |
 ## Linked List
 |  |
 | ------- |
