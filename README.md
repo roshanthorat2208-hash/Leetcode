@@ -27,6 +27,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0912-sort-an-array](https://github.com/roshanthorat2208-hash/Leetcode/tree/master/0912-sort-an-array) |
 | [0977-squares-of-a-sorted-array](https://github.com/roshanthorat2208-hash/Leetcode/tree/master/0977-squares-of-a-sorted-array) |
 | [0986-interval-list-intersections](https://github.com/roshanthorat2208-hash/Leetcode/tree/master/0986-interval-list-intersections) |
+| [1094-car-pooling](https://github.com/roshanthorat2208-hash/Leetcode/tree/master/1094-car-pooling) |
 | [1288-remove-covered-intervals](https://github.com/roshanthorat2208-hash/Leetcode/tree/master/1288-remove-covered-intervals) |
 | [1343-number-of-sub-arrays-of-size-k-and-average-greater-than-or-equal-to-threshold](https://github.com/roshanthorat2208-hash/Leetcode/tree/master/1343-number-of-sub-arrays-of-size-k-and-average-greater-than-or-equal-to-threshold) |
 | [1838-frequency-of-the-most-frequent-element](https://github.com/roshanthorat2208-hash/Leetcode/tree/master/1838-frequency-of-the-most-frequent-element) |
@@ -117,6 +118,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0088-merge-sorted-array](https://github.com/roshanthorat2208-hash/Leetcode/tree/master/0088-merge-sorted-array) |
 | [0912-sort-an-array](https://github.com/roshanthorat2208-hash/Leetcode/tree/master/0912-sort-an-array) |
 | [0977-squares-of-a-sorted-array](https://github.com/roshanthorat2208-hash/Leetcode/tree/master/0977-squares-of-a-sorted-array) |
+| [1094-car-pooling](https://github.com/roshanthorat2208-hash/Leetcode/tree/master/1094-car-pooling) |
 | [1288-remove-covered-intervals](https://github.com/roshanthorat2208-hash/Leetcode/tree/master/1288-remove-covered-intervals) |
 | [1838-frequency-of-the-most-frequent-element](https://github.com/roshanthorat2208-hash/Leetcode/tree/master/1838-frequency-of-the-most-frequent-element) |
 | [2824-count-pairs-whose-sum-is-less-than-target](https://github.com/roshanthorat2208-hash/Leetcode/tree/master/2824-count-pairs-whose-sum-is-less-than-target) |
@@ -180,6 +182,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0209-minimum-size-subarray-sum](https://github.com/roshanthorat2208-hash/Leetcode/tree/master/0209-minimum-size-subarray-sum) |
 | [0731-my-calendar-ii](https://github.com/roshanthorat2208-hash/Leetcode/tree/master/0731-my-calendar-ii) |
+| [1094-car-pooling](https://github.com/roshanthorat2208-hash/Leetcode/tree/master/1094-car-pooling) |
 | [1838-frequency-of-the-most-frequent-element](https://github.com/roshanthorat2208-hash/Leetcode/tree/master/1838-frequency-of-the-most-frequent-element) |
 ## String Matching
 |  |
@@ -199,6 +202,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0912-sort-an-array](https://github.com/roshanthorat2208-hash/Leetcode/tree/master/0912-sort-an-array) |
+| [1094-car-pooling](https://github.com/roshanthorat2208-hash/Leetcode/tree/master/1094-car-pooling) |
 ## Merge Sort
 |  |
 | ------- |
@@ -248,4 +252,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0731-my-calendar-ii](https://github.com/roshanthorat2208-hash/Leetcode/tree/master/0731-my-calendar-ii) |
+## Simulation
+|  |
+| ------- |
+| [1094-car-pooling](https://github.com/roshanthorat2208-hash/Leetcode/tree/master/1094-car-pooling) |
 <!---LeetCode Topics End-->
