@@ -22,6 +22,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0283-move-zeroes](https://github.com/roshanthorat2208-hash/Leetcode/tree/master/0283-move-zeroes) |
 | [0457-circular-array-loop](https://github.com/roshanthorat2208-hash/Leetcode/tree/master/0457-circular-array-loop) |
 | [0643-maximum-average-subarray-i](https://github.com/roshanthorat2208-hash/Leetcode/tree/master/0643-maximum-average-subarray-i) |
+| [0729-my-calendar-i](https://github.com/roshanthorat2208-hash/Leetcode/tree/master/0729-my-calendar-i) |
 | [0731-my-calendar-ii](https://github.com/roshanthorat2208-hash/Leetcode/tree/master/0731-my-calendar-ii) |
 | [0904-fruit-into-baskets](https://github.com/roshanthorat2208-hash/Leetcode/tree/master/0904-fruit-into-baskets) |
 | [0912-sort-an-array](https://github.com/roshanthorat2208-hash/Leetcode/tree/master/0912-sort-an-array) |
@@ -174,6 +175,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/roshanthorat2208-hash/Leetcode/tree/master/0167-two-sum-ii-input-array-is-sorted) |
 | [0209-minimum-size-subarray-sum](https://github.com/roshanthorat2208-hash/Leetcode/tree/master/0209-minimum-size-subarray-sum) |
+| [0729-my-calendar-i](https://github.com/roshanthorat2208-hash/Leetcode/tree/master/0729-my-calendar-i) |
 | [0731-my-calendar-ii](https://github.com/roshanthorat2208-hash/Leetcode/tree/master/0731-my-calendar-ii) |
 | [1838-frequency-of-the-most-frequent-element](https://github.com/roshanthorat2208-hash/Leetcode/tree/master/1838-frequency-of-the-most-frequent-element) |
 | [2824-count-pairs-whose-sum-is-less-than-target](https://github.com/roshanthorat2208-hash/Leetcode/tree/master/2824-count-pairs-whose-sum-is-less-than-target) |
@@ -243,14 +245,17 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Design
 |  |
 | ------- |
+| [0729-my-calendar-i](https://github.com/roshanthorat2208-hash/Leetcode/tree/master/0729-my-calendar-i) |
 | [0731-my-calendar-ii](https://github.com/roshanthorat2208-hash/Leetcode/tree/master/0731-my-calendar-ii) |
 ## Segment Tree
 |  |
 | ------- |
+| [0729-my-calendar-i](https://github.com/roshanthorat2208-hash/Leetcode/tree/master/0729-my-calendar-i) |
 | [0731-my-calendar-ii](https://github.com/roshanthorat2208-hash/Leetcode/tree/master/0731-my-calendar-ii) |
 ## Ordered Set
 |  |
 | ------- |
+| [0729-my-calendar-i](https://github.com/roshanthorat2208-hash/Leetcode/tree/master/0729-my-calendar-i) |
 | [0731-my-calendar-ii](https://github.com/roshanthorat2208-hash/Leetcode/tree/master/0731-my-calendar-ii) |
 ## Simulation
 |  |
