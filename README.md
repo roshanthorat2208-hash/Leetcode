@@ -28,6 +28,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0912-sort-an-array](https://github.com/roshanthorat2208-hash/Leetcode/tree/master/0912-sort-an-array) |
 | [0977-squares-of-a-sorted-array](https://github.com/roshanthorat2208-hash/Leetcode/tree/master/0977-squares-of-a-sorted-array) |
 | [0986-interval-list-intersections](https://github.com/roshanthorat2208-hash/Leetcode/tree/master/0986-interval-list-intersections) |
+| [1046-last-stone-weight](https://github.com/roshanthorat2208-hash/Leetcode/tree/master/1046-last-stone-weight) |
 | [1094-car-pooling](https://github.com/roshanthorat2208-hash/Leetcode/tree/master/1094-car-pooling) |
 | [1288-remove-covered-intervals](https://github.com/roshanthorat2208-hash/Leetcode/tree/master/1288-remove-covered-intervals) |
 | [1343-number-of-sub-arrays-of-size-k-and-average-greater-than-or-equal-to-threshold](https://github.com/roshanthorat2208-hash/Leetcode/tree/master/1343-number-of-sub-arrays-of-size-k-and-average-greater-than-or-equal-to-threshold) |
@@ -206,6 +207,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0912-sort-an-array](https://github.com/roshanthorat2208-hash/Leetcode/tree/master/0912-sort-an-array) |
+| [1046-last-stone-weight](https://github.com/roshanthorat2208-hash/Leetcode/tree/master/1046-last-stone-weight) |
 | [1094-car-pooling](https://github.com/roshanthorat2208-hash/Leetcode/tree/master/1094-car-pooling) |
 ## Merge Sort
 |  |
