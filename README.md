@@ -62,6 +62,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0344-reverse-string](https://github.com/roshanthorat2208-hash/Leetcode/tree/master/0344-reverse-string) |
 | [0424-longest-repeating-character-replacement](https://github.com/roshanthorat2208-hash/Leetcode/tree/master/0424-longest-repeating-character-replacement) |
 | [0680-valid-palindrome-ii](https://github.com/roshanthorat2208-hash/Leetcode/tree/master/0680-valid-palindrome-ii) |
+| [1405-longest-happy-string](https://github.com/roshanthorat2208-hash/Leetcode/tree/master/1405-longest-happy-string) |
 | [2486-append-characters-to-string-to-make-subsequence](https://github.com/roshanthorat2208-hash/Leetcode/tree/master/2486-append-characters-to-string-to-make-subsequence) |
 ## Sliding Window
 |  |
@@ -109,6 +110,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0011-container-with-most-water](https://github.com/roshanthorat2208-hash/Leetcode/tree/master/0011-container-with-most-water) |
 | [0680-valid-palindrome-ii](https://github.com/roshanthorat2208-hash/Leetcode/tree/master/0680-valid-palindrome-ii) |
+| [1405-longest-happy-string](https://github.com/roshanthorat2208-hash/Leetcode/tree/master/1405-longest-happy-string) |
 | [1838-frequency-of-the-most-frequent-element](https://github.com/roshanthorat2208-hash/Leetcode/tree/master/1838-frequency-of-the-most-frequent-element) |
 | [2486-append-characters-to-string-to-make-subsequence](https://github.com/roshanthorat2208-hash/Leetcode/tree/master/2486-append-characters-to-string-to-make-subsequence) |
 ## Sorting
@@ -210,6 +212,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0912-sort-an-array](https://github.com/roshanthorat2208-hash/Leetcode/tree/master/0912-sort-an-array) |
 | [1046-last-stone-weight](https://github.com/roshanthorat2208-hash/Leetcode/tree/master/1046-last-stone-weight) |
 | [1094-car-pooling](https://github.com/roshanthorat2208-hash/Leetcode/tree/master/1094-car-pooling) |
+| [1405-longest-happy-string](https://github.com/roshanthorat2208-hash/Leetcode/tree/master/1405-longest-happy-string) |
 | [2231-largest-number-after-digit-swaps-by-parity](https://github.com/roshanthorat2208-hash/Leetcode/tree/master/2231-largest-number-after-digit-swaps-by-parity) |
 ## Merge Sort
 |  |
