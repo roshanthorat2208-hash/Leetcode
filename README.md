@@ -98,6 +98,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0202-happy-number](https://github.com/roshanthorat2208-hash/Leetcode/tree/master/0202-happy-number) |
 | [0234-palindrome-linked-list](https://github.com/roshanthorat2208-hash/Leetcode/tree/master/0234-palindrome-linked-list) |
 | [0283-move-zeroes](https://github.com/roshanthorat2208-hash/Leetcode/tree/master/0283-move-zeroes) |
+| [0295-find-median-from-data-stream](https://github.com/roshanthorat2208-hash/Leetcode/tree/master/0295-find-median-from-data-stream) |
 | [0344-reverse-string](https://github.com/roshanthorat2208-hash/Leetcode/tree/master/0344-reverse-string) |
 | [0457-circular-array-loop](https://github.com/roshanthorat2208-hash/Leetcode/tree/master/0457-circular-array-loop) |
 | [0680-valid-palindrome-ii](https://github.com/roshanthorat2208-hash/Leetcode/tree/master/0680-valid-palindrome-ii) |
@@ -122,6 +123,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0056-merge-intervals](https://github.com/roshanthorat2208-hash/Leetcode/tree/master/0056-merge-intervals) |
 | [0075-sort-colors](https://github.com/roshanthorat2208-hash/Leetcode/tree/master/0075-sort-colors) |
 | [0088-merge-sorted-array](https://github.com/roshanthorat2208-hash/Leetcode/tree/master/0088-merge-sorted-array) |
+| [0295-find-median-from-data-stream](https://github.com/roshanthorat2208-hash/Leetcode/tree/master/0295-find-median-from-data-stream) |
 | [0912-sort-an-array](https://github.com/roshanthorat2208-hash/Leetcode/tree/master/0912-sort-an-array) |
 | [0977-squares-of-a-sorted-array](https://github.com/roshanthorat2208-hash/Leetcode/tree/master/0977-squares-of-a-sorted-array) |
 | [1094-car-pooling](https://github.com/roshanthorat2208-hash/Leetcode/tree/master/1094-car-pooling) |
@@ -211,6 +213,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Heap (Priority Queue)
 |  |
 | ------- |
+| [0295-find-median-from-data-stream](https://github.com/roshanthorat2208-hash/Leetcode/tree/master/0295-find-median-from-data-stream) |
 | [0912-sort-an-array](https://github.com/roshanthorat2208-hash/Leetcode/tree/master/0912-sort-an-array) |
 | [1046-last-stone-weight](https://github.com/roshanthorat2208-hash/Leetcode/tree/master/1046-last-stone-weight) |
 | [1094-car-pooling](https://github.com/roshanthorat2208-hash/Leetcode/tree/master/1094-car-pooling) |
@@ -257,6 +260,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Design
 |  |
 | ------- |
+| [0295-find-median-from-data-stream](https://github.com/roshanthorat2208-hash/Leetcode/tree/master/0295-find-median-from-data-stream) |
 | [0352-data-stream-as-disjoint-intervals](https://github.com/roshanthorat2208-hash/Leetcode/tree/master/0352-data-stream-as-disjoint-intervals) |
 | [0729-my-calendar-i](https://github.com/roshanthorat2208-hash/Leetcode/tree/master/0729-my-calendar-i) |
 | [0731-my-calendar-ii](https://github.com/roshanthorat2208-hash/Leetcode/tree/master/0731-my-calendar-ii) |
@@ -282,5 +286,6 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Data Stream
 |  |
 | ------- |
+| [0295-find-median-from-data-stream](https://github.com/roshanthorat2208-hash/Leetcode/tree/master/0295-find-median-from-data-stream) |
 | [0352-data-stream-as-disjoint-intervals](https://github.com/roshanthorat2208-hash/Leetcode/tree/master/0352-data-stream-as-disjoint-intervals) |
 <!---LeetCode Topics End-->
