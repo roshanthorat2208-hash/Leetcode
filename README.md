@@ -24,6 +24,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0373-find-k-pairs-with-smallest-sums](https://github.com/roshanthorat2208-hash/Leetcode/tree/master/0373-find-k-pairs-with-smallest-sums) |
 | [0436-find-right-interval](https://github.com/roshanthorat2208-hash/Leetcode/tree/master/0436-find-right-interval) |
 | [0457-circular-array-loop](https://github.com/roshanthorat2208-hash/Leetcode/tree/master/0457-circular-array-loop) |
+| [0621-task-scheduler](https://github.com/roshanthorat2208-hash/Leetcode/tree/master/0621-task-scheduler) |
 | [0643-maximum-average-subarray-i](https://github.com/roshanthorat2208-hash/Leetcode/tree/master/0643-maximum-average-subarray-i) |
 | [0729-my-calendar-i](https://github.com/roshanthorat2208-hash/Leetcode/tree/master/0729-my-calendar-i) |
 | [0731-my-calendar-ii](https://github.com/roshanthorat2208-hash/Leetcode/tree/master/0731-my-calendar-ii) |
@@ -55,6 +56,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0352-data-stream-as-disjoint-intervals](https://github.com/roshanthorat2208-hash/Leetcode/tree/master/0352-data-stream-as-disjoint-intervals) |
 | [0424-longest-repeating-character-replacement](https://github.com/roshanthorat2208-hash/Leetcode/tree/master/0424-longest-repeating-character-replacement) |
 | [0457-circular-array-loop](https://github.com/roshanthorat2208-hash/Leetcode/tree/master/0457-circular-array-loop) |
+| [0621-task-scheduler](https://github.com/roshanthorat2208-hash/Leetcode/tree/master/0621-task-scheduler) |
 | [0904-fruit-into-baskets](https://github.com/roshanthorat2208-hash/Leetcode/tree/master/0904-fruit-into-baskets) |
 | [1942-the-number-of-the-smallest-unoccupied-chair](https://github.com/roshanthorat2208-hash/Leetcode/tree/master/1942-the-number-of-the-smallest-unoccupied-chair) |
 | [2461-maximum-sum-of-distinct-subarrays-with-length-k](https://github.com/roshanthorat2208-hash/Leetcode/tree/master/2461-maximum-sum-of-distinct-subarrays-with-length-k) |
@@ -117,6 +119,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0011-container-with-most-water](https://github.com/roshanthorat2208-hash/Leetcode/tree/master/0011-container-with-most-water) |
+| [0621-task-scheduler](https://github.com/roshanthorat2208-hash/Leetcode/tree/master/0621-task-scheduler) |
 | [0680-valid-palindrome-ii](https://github.com/roshanthorat2208-hash/Leetcode/tree/master/0680-valid-palindrome-ii) |
 | [1405-longest-happy-string](https://github.com/roshanthorat2208-hash/Leetcode/tree/master/1405-longest-happy-string) |
 | [1838-frequency-of-the-most-frequent-element](https://github.com/roshanthorat2208-hash/Leetcode/tree/master/1838-frequency-of-the-most-frequent-element) |
@@ -132,6 +135,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0215-kth-largest-element-in-an-array](https://github.com/roshanthorat2208-hash/Leetcode/tree/master/0215-kth-largest-element-in-an-array) |
 | [0295-find-median-from-data-stream](https://github.com/roshanthorat2208-hash/Leetcode/tree/master/0295-find-median-from-data-stream) |
 | [0436-find-right-interval](https://github.com/roshanthorat2208-hash/Leetcode/tree/master/0436-find-right-interval) |
+| [0621-task-scheduler](https://github.com/roshanthorat2208-hash/Leetcode/tree/master/0621-task-scheduler) |
 | [0912-sort-an-array](https://github.com/roshanthorat2208-hash/Leetcode/tree/master/0912-sort-an-array) |
 | [0977-squares-of-a-sorted-array](https://github.com/roshanthorat2208-hash/Leetcode/tree/master/0977-squares-of-a-sorted-array) |
 | [1094-car-pooling](https://github.com/roshanthorat2208-hash/Leetcode/tree/master/1094-car-pooling) |
@@ -229,6 +233,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0264-ugly-number-ii](https://github.com/roshanthorat2208-hash/Leetcode/tree/master/0264-ugly-number-ii) |
 | [0295-find-median-from-data-stream](https://github.com/roshanthorat2208-hash/Leetcode/tree/master/0295-find-median-from-data-stream) |
 | [0373-find-k-pairs-with-smallest-sums](https://github.com/roshanthorat2208-hash/Leetcode/tree/master/0373-find-k-pairs-with-smallest-sums) |
+| [0621-task-scheduler](https://github.com/roshanthorat2208-hash/Leetcode/tree/master/0621-task-scheduler) |
 | [0703-kth-largest-element-in-a-stream](https://github.com/roshanthorat2208-hash/Leetcode/tree/master/0703-kth-largest-element-in-a-stream) |
 | [0912-sort-an-array](https://github.com/roshanthorat2208-hash/Leetcode/tree/master/0912-sort-an-array) |
 | [1046-last-stone-weight](https://github.com/roshanthorat2208-hash/Leetcode/tree/master/1046-last-stone-weight) |
@@ -252,6 +257,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Counting Sort
 |  |
 | ------- |
+| [0621-task-scheduler](https://github.com/roshanthorat2208-hash/Leetcode/tree/master/0621-task-scheduler) |
 | [0912-sort-an-array](https://github.com/roshanthorat2208-hash/Leetcode/tree/master/0912-sort-an-array) |
 ## Breadth-First Search
 |  |
