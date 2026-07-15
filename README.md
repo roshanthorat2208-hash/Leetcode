@@ -21,6 +21,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0215-kth-largest-element-in-an-array](https://github.com/roshanthorat2208-hash/Leetcode/tree/master/0215-kth-largest-element-in-an-array) |
 | [0219-contains-duplicate-ii](https://github.com/roshanthorat2208-hash/Leetcode/tree/master/0219-contains-duplicate-ii) |
 | [0283-move-zeroes](https://github.com/roshanthorat2208-hash/Leetcode/tree/master/0283-move-zeroes) |
+| [0373-find-k-pairs-with-smallest-sums](https://github.com/roshanthorat2208-hash/Leetcode/tree/master/0373-find-k-pairs-with-smallest-sums) |
 | [0436-find-right-interval](https://github.com/roshanthorat2208-hash/Leetcode/tree/master/0436-find-right-interval) |
 | [0457-circular-array-loop](https://github.com/roshanthorat2208-hash/Leetcode/tree/master/0457-circular-array-loop) |
 | [0643-maximum-average-subarray-i](https://github.com/roshanthorat2208-hash/Leetcode/tree/master/0643-maximum-average-subarray-i) |
@@ -227,6 +228,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0215-kth-largest-element-in-an-array](https://github.com/roshanthorat2208-hash/Leetcode/tree/master/0215-kth-largest-element-in-an-array) |
 | [0264-ugly-number-ii](https://github.com/roshanthorat2208-hash/Leetcode/tree/master/0264-ugly-number-ii) |
 | [0295-find-median-from-data-stream](https://github.com/roshanthorat2208-hash/Leetcode/tree/master/0295-find-median-from-data-stream) |
+| [0373-find-k-pairs-with-smallest-sums](https://github.com/roshanthorat2208-hash/Leetcode/tree/master/0373-find-k-pairs-with-smallest-sums) |
 | [0703-kth-largest-element-in-a-stream](https://github.com/roshanthorat2208-hash/Leetcode/tree/master/0703-kth-largest-element-in-a-stream) |
 | [0912-sort-an-array](https://github.com/roshanthorat2208-hash/Leetcode/tree/master/0912-sort-an-array) |
 | [1046-last-stone-weight](https://github.com/roshanthorat2208-hash/Leetcode/tree/master/1046-last-stone-weight) |
