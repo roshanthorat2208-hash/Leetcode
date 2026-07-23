@@ -16,6 +16,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0035-search-insert-position](https://github.com/roshanthorat2208-hash/Leetcode/tree/master/0035-search-insert-position) |
 | [0051-n-queens](https://github.com/roshanthorat2208-hash/Leetcode/tree/master/0051-n-queens) |
 | [0056-merge-intervals](https://github.com/roshanthorat2208-hash/Leetcode/tree/master/0056-merge-intervals) |
+| [0066-plus-one](https://github.com/roshanthorat2208-hash/Leetcode/tree/master/0066-plus-one) |
 | [0075-sort-colors](https://github.com/roshanthorat2208-hash/Leetcode/tree/master/0075-sort-colors) |
 | [0088-merge-sorted-array](https://github.com/roshanthorat2208-hash/Leetcode/tree/master/0088-merge-sorted-array) |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/roshanthorat2208-hash/Leetcode/tree/master/0167-two-sum-ii-input-array-is-sorted) |
@@ -290,6 +291,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0002-add-two-numbers](https://github.com/roshanthorat2208-hash/Leetcode/tree/master/0002-add-two-numbers) |
+| [0066-plus-one](https://github.com/roshanthorat2208-hash/Leetcode/tree/master/0066-plus-one) |
 | [0202-happy-number](https://github.com/roshanthorat2208-hash/Leetcode/tree/master/0202-happy-number) |
 | [0264-ugly-number-ii](https://github.com/roshanthorat2208-hash/Leetcode/tree/master/0264-ugly-number-ii) |
 ## Sweep Line
