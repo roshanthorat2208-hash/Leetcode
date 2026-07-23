@@ -19,6 +19,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0066-plus-one](https://github.com/roshanthorat2208-hash/Leetcode/tree/master/0066-plus-one) |
 | [0075-sort-colors](https://github.com/roshanthorat2208-hash/Leetcode/tree/master/0075-sort-colors) |
 | [0088-merge-sorted-array](https://github.com/roshanthorat2208-hash/Leetcode/tree/master/0088-merge-sorted-array) |
+| [0108-convert-sorted-array-to-binary-search-tree](https://github.com/roshanthorat2208-hash/Leetcode/tree/master/0108-convert-sorted-array-to-binary-search-tree) |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/roshanthorat2208-hash/Leetcode/tree/master/0167-two-sum-ii-input-array-is-sorted) |
 | [0209-minimum-size-subarray-sum](https://github.com/roshanthorat2208-hash/Leetcode/tree/master/0209-minimum-size-subarray-sum) |
 | [0215-kth-largest-element-in-an-array](https://github.com/roshanthorat2208-hash/Leetcode/tree/master/0215-kth-largest-element-in-an-array) |
@@ -186,6 +187,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0094-binary-tree-inorder-traversal](https://github.com/roshanthorat2208-hash/Leetcode/tree/master/0094-binary-tree-inorder-traversal) |
 | [0102-binary-tree-level-order-traversal](https://github.com/roshanthorat2208-hash/Leetcode/tree/master/0102-binary-tree-level-order-traversal) |
+| [0108-convert-sorted-array-to-binary-search-tree](https://github.com/roshanthorat2208-hash/Leetcode/tree/master/0108-convert-sorted-array-to-binary-search-tree) |
 | [0145-binary-tree-postorder-traversal](https://github.com/roshanthorat2208-hash/Leetcode/tree/master/0145-binary-tree-postorder-traversal) |
 | [0572-subtree-of-another-tree](https://github.com/roshanthorat2208-hash/Leetcode/tree/master/0572-subtree-of-another-tree) |
 | [0703-kth-largest-element-in-a-stream](https://github.com/roshanthorat2208-hash/Leetcode/tree/master/0703-kth-largest-element-in-a-stream) |
@@ -200,6 +202,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0094-binary-tree-inorder-traversal](https://github.com/roshanthorat2208-hash/Leetcode/tree/master/0094-binary-tree-inorder-traversal) |
 | [0102-binary-tree-level-order-traversal](https://github.com/roshanthorat2208-hash/Leetcode/tree/master/0102-binary-tree-level-order-traversal) |
+| [0108-convert-sorted-array-to-binary-search-tree](https://github.com/roshanthorat2208-hash/Leetcode/tree/master/0108-convert-sorted-array-to-binary-search-tree) |
 | [0145-binary-tree-postorder-traversal](https://github.com/roshanthorat2208-hash/Leetcode/tree/master/0145-binary-tree-postorder-traversal) |
 | [0572-subtree-of-another-tree](https://github.com/roshanthorat2208-hash/Leetcode/tree/master/0572-subtree-of-another-tree) |
 | [0703-kth-largest-element-in-a-stream](https://github.com/roshanthorat2208-hash/Leetcode/tree/master/0703-kth-largest-element-in-a-stream) |
@@ -236,6 +239,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0023-merge-k-sorted-lists](https://github.com/roshanthorat2208-hash/Leetcode/tree/master/0023-merge-k-sorted-lists) |
+| [0108-convert-sorted-array-to-binary-search-tree](https://github.com/roshanthorat2208-hash/Leetcode/tree/master/0108-convert-sorted-array-to-binary-search-tree) |
 | [0215-kth-largest-element-in-an-array](https://github.com/roshanthorat2208-hash/Leetcode/tree/master/0215-kth-largest-element-in-an-array) |
 | [0912-sort-an-array](https://github.com/roshanthorat2208-hash/Leetcode/tree/master/0912-sort-an-array) |
 | [1985-find-the-kth-largest-integer-in-the-array](https://github.com/roshanthorat2208-hash/Leetcode/tree/master/1985-find-the-kth-largest-integer-in-the-array) |
@@ -339,6 +343,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Binary Search Tree
 |  |
 | ------- |
+| [0108-convert-sorted-array-to-binary-search-tree](https://github.com/roshanthorat2208-hash/Leetcode/tree/master/0108-convert-sorted-array-to-binary-search-tree) |
 | [0703-kth-largest-element-in-a-stream](https://github.com/roshanthorat2208-hash/Leetcode/tree/master/0703-kth-largest-element-in-a-stream) |
 ## Dynamic Programming
 |  |
