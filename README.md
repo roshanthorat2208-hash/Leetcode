@@ -32,6 +32,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0457-circular-array-loop](https://github.com/roshanthorat2208-hash/Leetcode/tree/master/0457-circular-array-loop) |
 | [0621-task-scheduler](https://github.com/roshanthorat2208-hash/Leetcode/tree/master/0621-task-scheduler) |
 | [0643-maximum-average-subarray-i](https://github.com/roshanthorat2208-hash/Leetcode/tree/master/0643-maximum-average-subarray-i) |
+| [0704-binary-search](https://github.com/roshanthorat2208-hash/Leetcode/tree/master/0704-binary-search) |
 | [0729-my-calendar-i](https://github.com/roshanthorat2208-hash/Leetcode/tree/master/0729-my-calendar-i) |
 | [0731-my-calendar-ii](https://github.com/roshanthorat2208-hash/Leetcode/tree/master/0731-my-calendar-ii) |
 | [0904-fruit-into-baskets](https://github.com/roshanthorat2208-hash/Leetcode/tree/master/0904-fruit-into-baskets) |
@@ -217,6 +218,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0209-minimum-size-subarray-sum](https://github.com/roshanthorat2208-hash/Leetcode/tree/master/0209-minimum-size-subarray-sum) |
 | [0352-data-stream-as-disjoint-intervals](https://github.com/roshanthorat2208-hash/Leetcode/tree/master/0352-data-stream-as-disjoint-intervals) |
 | [0436-find-right-interval](https://github.com/roshanthorat2208-hash/Leetcode/tree/master/0436-find-right-interval) |
+| [0704-binary-search](https://github.com/roshanthorat2208-hash/Leetcode/tree/master/0704-binary-search) |
 | [0729-my-calendar-i](https://github.com/roshanthorat2208-hash/Leetcode/tree/master/0729-my-calendar-i) |
 | [0731-my-calendar-ii](https://github.com/roshanthorat2208-hash/Leetcode/tree/master/0731-my-calendar-ii) |
 | [1838-frequency-of-the-most-frequent-element](https://github.com/roshanthorat2208-hash/Leetcode/tree/master/1838-frequency-of-the-most-frequent-element) |
