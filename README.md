@@ -33,6 +33,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0373-find-k-pairs-with-smallest-sums](https://github.com/roshanthorat2208-hash/Leetcode/tree/master/0373-find-k-pairs-with-smallest-sums) |
 | [0436-find-right-interval](https://github.com/roshanthorat2208-hash/Leetcode/tree/master/0436-find-right-interval) |
 | [0457-circular-array-loop](https://github.com/roshanthorat2208-hash/Leetcode/tree/master/0457-circular-array-loop) |
+| [0540-single-element-in-a-sorted-array](https://github.com/roshanthorat2208-hash/Leetcode/tree/master/0540-single-element-in-a-sorted-array) |
 | [0621-task-scheduler](https://github.com/roshanthorat2208-hash/Leetcode/tree/master/0621-task-scheduler) |
 | [0643-maximum-average-subarray-i](https://github.com/roshanthorat2208-hash/Leetcode/tree/master/0643-maximum-average-subarray-i) |
 | [0704-binary-search](https://github.com/roshanthorat2208-hash/Leetcode/tree/master/0704-binary-search) |
@@ -226,6 +227,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0278-first-bad-version](https://github.com/roshanthorat2208-hash/Leetcode/tree/master/0278-first-bad-version) |
 | [0352-data-stream-as-disjoint-intervals](https://github.com/roshanthorat2208-hash/Leetcode/tree/master/0352-data-stream-as-disjoint-intervals) |
 | [0436-find-right-interval](https://github.com/roshanthorat2208-hash/Leetcode/tree/master/0436-find-right-interval) |
+| [0540-single-element-in-a-sorted-array](https://github.com/roshanthorat2208-hash/Leetcode/tree/master/0540-single-element-in-a-sorted-array) |
 | [0704-binary-search](https://github.com/roshanthorat2208-hash/Leetcode/tree/master/0704-binary-search) |
 | [0729-my-calendar-i](https://github.com/roshanthorat2208-hash/Leetcode/tree/master/0729-my-calendar-i) |
 | [0731-my-calendar-ii](https://github.com/roshanthorat2208-hash/Leetcode/tree/master/0731-my-calendar-ii) |
