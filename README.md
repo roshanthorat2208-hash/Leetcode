@@ -247,6 +247,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0349-intersection-of-two-arrays](https://github.com/roshanthorat2208-hash/Leetcode/tree/master/0349-intersection-of-two-arrays) |
 | [0350-intersection-of-two-arrays-ii](https://github.com/roshanthorat2208-hash/Leetcode/tree/master/0350-intersection-of-two-arrays-ii) |
 | [0352-data-stream-as-disjoint-intervals](https://github.com/roshanthorat2208-hash/Leetcode/tree/master/0352-data-stream-as-disjoint-intervals) |
+| [0367-valid-perfect-square](https://github.com/roshanthorat2208-hash/Leetcode/tree/master/0367-valid-perfect-square) |
 | [0436-find-right-interval](https://github.com/roshanthorat2208-hash/Leetcode/tree/master/0436-find-right-interval) |
 | [0540-single-element-in-a-sorted-array](https://github.com/roshanthorat2208-hash/Leetcode/tree/master/0540-single-element-in-a-sorted-array) |
 | [0704-binary-search](https://github.com/roshanthorat2208-hash/Leetcode/tree/master/0704-binary-search) |
@@ -341,6 +342,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0202-happy-number](https://github.com/roshanthorat2208-hash/Leetcode/tree/master/0202-happy-number) |
 | [0264-ugly-number-ii](https://github.com/roshanthorat2208-hash/Leetcode/tree/master/0264-ugly-number-ii) |
 | [0268-missing-number](https://github.com/roshanthorat2208-hash/Leetcode/tree/master/0268-missing-number) |
+| [0367-valid-perfect-square](https://github.com/roshanthorat2208-hash/Leetcode/tree/master/0367-valid-perfect-square) |
 ## Sweep Line
 |  |
 | ------- |
