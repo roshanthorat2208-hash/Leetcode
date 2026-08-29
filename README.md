@@ -30,6 +30,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0209-minimum-size-subarray-sum](https://github.com/roshanthorat2208-hash/Leetcode/tree/master/0209-minimum-size-subarray-sum) |
 | [0215-kth-largest-element-in-an-array](https://github.com/roshanthorat2208-hash/Leetcode/tree/master/0215-kth-largest-element-in-an-array) |
 | [0219-contains-duplicate-ii](https://github.com/roshanthorat2208-hash/Leetcode/tree/master/0219-contains-duplicate-ii) |
+| [0268-missing-number](https://github.com/roshanthorat2208-hash/Leetcode/tree/master/0268-missing-number) |
 | [0283-move-zeroes](https://github.com/roshanthorat2208-hash/Leetcode/tree/master/0283-move-zeroes) |
 | [0373-find-k-pairs-with-smallest-sums](https://github.com/roshanthorat2208-hash/Leetcode/tree/master/0373-find-k-pairs-with-smallest-sums) |
 | [0436-find-right-interval](https://github.com/roshanthorat2208-hash/Leetcode/tree/master/0436-find-right-interval) |
@@ -67,6 +68,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0202-happy-number](https://github.com/roshanthorat2208-hash/Leetcode/tree/master/0202-happy-number) |
 | [0219-contains-duplicate-ii](https://github.com/roshanthorat2208-hash/Leetcode/tree/master/0219-contains-duplicate-ii) |
 | [0264-ugly-number-ii](https://github.com/roshanthorat2208-hash/Leetcode/tree/master/0264-ugly-number-ii) |
+| [0268-missing-number](https://github.com/roshanthorat2208-hash/Leetcode/tree/master/0268-missing-number) |
 | [0352-data-stream-as-disjoint-intervals](https://github.com/roshanthorat2208-hash/Leetcode/tree/master/0352-data-stream-as-disjoint-intervals) |
 | [0424-longest-repeating-character-replacement](https://github.com/roshanthorat2208-hash/Leetcode/tree/master/0424-longest-repeating-character-replacement) |
 | [0457-circular-array-loop](https://github.com/roshanthorat2208-hash/Leetcode/tree/master/0457-circular-array-loop) |
@@ -150,6 +152,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0075-sort-colors](https://github.com/roshanthorat2208-hash/Leetcode/tree/master/0075-sort-colors) |
 | [0088-merge-sorted-array](https://github.com/roshanthorat2208-hash/Leetcode/tree/master/0088-merge-sorted-array) |
 | [0215-kth-largest-element-in-an-array](https://github.com/roshanthorat2208-hash/Leetcode/tree/master/0215-kth-largest-element-in-an-array) |
+| [0268-missing-number](https://github.com/roshanthorat2208-hash/Leetcode/tree/master/0268-missing-number) |
 | [0295-find-median-from-data-stream](https://github.com/roshanthorat2208-hash/Leetcode/tree/master/0295-find-median-from-data-stream) |
 | [0436-find-right-interval](https://github.com/roshanthorat2208-hash/Leetcode/tree/master/0436-find-right-interval) |
 | [0621-task-scheduler](https://github.com/roshanthorat2208-hash/Leetcode/tree/master/0621-task-scheduler) |
@@ -228,6 +231,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0162-find-peak-element](https://github.com/roshanthorat2208-hash/Leetcode/tree/master/0162-find-peak-element) |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/roshanthorat2208-hash/Leetcode/tree/master/0167-two-sum-ii-input-array-is-sorted) |
 | [0209-minimum-size-subarray-sum](https://github.com/roshanthorat2208-hash/Leetcode/tree/master/0209-minimum-size-subarray-sum) |
+| [0268-missing-number](https://github.com/roshanthorat2208-hash/Leetcode/tree/master/0268-missing-number) |
 | [0278-first-bad-version](https://github.com/roshanthorat2208-hash/Leetcode/tree/master/0278-first-bad-version) |
 | [0352-data-stream-as-disjoint-intervals](https://github.com/roshanthorat2208-hash/Leetcode/tree/master/0352-data-stream-as-disjoint-intervals) |
 | [0436-find-right-interval](https://github.com/roshanthorat2208-hash/Leetcode/tree/master/0436-find-right-interval) |
@@ -309,6 +313,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0136-single-number](https://github.com/roshanthorat2208-hash/Leetcode/tree/master/0136-single-number) |
 | [0187-repeated-dna-sequences](https://github.com/roshanthorat2208-hash/Leetcode/tree/master/0187-repeated-dna-sequences) |
+| [0268-missing-number](https://github.com/roshanthorat2208-hash/Leetcode/tree/master/0268-missing-number) |
 ## Rolling Hash
 |  |
 | ------- |
@@ -321,6 +326,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0069-sqrtx](https://github.com/roshanthorat2208-hash/Leetcode/tree/master/0069-sqrtx) |
 | [0202-happy-number](https://github.com/roshanthorat2208-hash/Leetcode/tree/master/0202-happy-number) |
 | [0264-ugly-number-ii](https://github.com/roshanthorat2208-hash/Leetcode/tree/master/0264-ugly-number-ii) |
+| [0268-missing-number](https://github.com/roshanthorat2208-hash/Leetcode/tree/master/0268-missing-number) |
 ## Sweep Line
 |  |
 | ------- |
